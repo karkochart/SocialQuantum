@@ -7,6 +7,14 @@
     <groupId>social-quantium</groupId>
     <artifactId>social-quantium</artifactId>
     <version>1.0.0</version>
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>RELEASE</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
 
 
 </project>
